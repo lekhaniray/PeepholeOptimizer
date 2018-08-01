@@ -9,8 +9,6 @@ partial algorithm for peephole Optimization
 convert the input to string and feed it so that we can do a simple text matching
 This will help us remove redundancies
 
-I will continue working on it and put up a fair one by tonight (hopefully)
-Both are free to contribute
 
 if(x == ' +0' | x == ' *1') // simplification
 delete operation
