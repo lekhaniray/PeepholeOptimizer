@@ -1,0 +1,26 @@
+We will just remove 
+Algebraic simplifications
+Dead Jumps
+REdundant load/store
+Strength reduction
+Unreachable code
+partial algorithm for peephole Optimization
+
+convert the input to string and feed it so that we can do a simple text matching
+This will help us remove redundancies
+
+I will continue working on it and put up a fair one by tonight (hopefully)
+Both are free to contribute
+
+if(x == ' +0' | x == ' *1') // simplification
+delete operation
+if ( x == ' L2 :    ')
+delete operation // unreachable code
+
+if( x == 'pow( a,2)' )
+replace by a*a //
+
+
+
+
+
